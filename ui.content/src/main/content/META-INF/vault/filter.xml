@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/htldemo" mode="merge"/>
+    <filter root="/content/htldemo" mode="merge"/>
+    <filter root="/content/dam/htldemo/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/htldemo" mode="merge"/>
+</workspaceFilter>
